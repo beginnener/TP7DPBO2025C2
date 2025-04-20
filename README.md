@@ -110,7 +110,7 @@ CREATE TABLE penjualan_detail (
 
 ---
 
-## 🧪 Data Dummy (Seed)
+## Data Dummy
 
 ### Tabel `customers`
 
